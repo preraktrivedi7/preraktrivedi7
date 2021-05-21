@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="medium" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="portfolio" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 
@@ -42,7 +42,7 @@
 <img align="left" alt="AWS" width="75px" src="https://user-images.githubusercontent.com/31332352/119158264-0aefaa80-ba24-11eb-9fc6-1f5d59bd8c40.png" />
 <img align="left" alt="GCP" width="75px" src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" />
 <img align="left" alt="Azure" width="75px" src="https://user-images.githubusercontent.com/31332352/119158273-0d520480-ba24-11eb-91f1-4fd64df0f268.png" />
-<br>
+<br><br>
 
 
 ### Things I love:
