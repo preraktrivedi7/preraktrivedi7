@@ -60,8 +60,10 @@
     <a href="https://gitstats.me/preraktrivedi7" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=preraktrivedi7&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
+</p>
 
-
+### :books: Programming Languages
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preraktrivedi7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <div align="center">
