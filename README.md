@@ -62,10 +62,10 @@
     </a>
 </p>
 
-### :books: Programming Languages
-<p>
+### :zap: GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preraktrivedi7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
