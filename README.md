@@ -25,6 +25,8 @@
 <img align="left" alt="Hadoop" width="50px" src="https://user-images.githubusercontent.com/31332352/119157539-49d13080-ba23-11eb-9144-42d232660789.png" />  
 
 <br />
+
+
 <img align="left" alt="Spark" width="50px" src="https://user-images.githubusercontent.com/31332352/119158103-dc71cf80-ba23-11eb-9489-fb9905b70698.png" />
 <img align="left" alt="TensorFlow" width="50px" src="https://user-images.githubusercontent.com/31332352/119158175-f27f9000-ba23-11eb-8bda-68c61d277ed2.png" />
 <img align="left" alt="Keras" width="50px" src="https://user-images.githubusercontent.com/31332352/119158225-01664280-ba24-11eb-9f52-a0f8923739b6.png" />
