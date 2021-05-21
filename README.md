@@ -24,7 +24,7 @@
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Hadoop" width="50px" src="https://user-images.githubusercontent.com/31332352/119157539-49d13080-ba23-11eb-9144-42d232660789.png" />  
 
-<br>
+<br><br>
 
 
 <img align="left" alt="Spark" width="50px" src="https://user-images.githubusercontent.com/31332352/119158103-dc71cf80-ba23-11eb-9489-fb9905b70698.png" />
