@@ -42,11 +42,11 @@
 <img align="left" alt="github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="Visual Studio Code" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="AWS" width="75px" src="https://user-images.githubusercontent.com/31332352/119158264-0aefaa80-ba24-11eb-9fc6-1f5d59bd8c40.png" />
-<img align="left" alt="GCP" width="75px" src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" />
-<img align="left" alt="Azure" width="75px" src="https://user-images.githubusercontent.com/31332352/119158273-0d520480-ba24-11eb-91f1-4fd64df0f268.png" />
+<img align="left" alt="GCP" width="100px" src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" />
+<img align="left" alt="Azure" width="100px" src="https://user-images.githubusercontent.com/31332352/119158273-0d520480-ba24-11eb-91f1-4fd64df0f268.png" />
 
 <br><br>
-
+<br>
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
