@@ -63,9 +63,10 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preraktrivedi7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div align="right">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </p>
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
 
 [website]: https://preraktrivedi7.github.io
 [linkedin]: https://linkedin.com/in/preraktrivedi7
