@@ -30,7 +30,7 @@
 <img align="left" alt="Keras" width="50px" src="https://user-images.githubusercontent.com/31332352/119158225-01664280-ba24-11eb-9f52-a0f8923739b6.png" />
 <img align="left" alt="PyTorch" width="50px" src="https://user-images.githubusercontent.com/31332352/119158230-03c89c80-ba24-11eb-846e-30744b4f6fe2.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  <br />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="AWS" width="50px" src="https://user-images.githubusercontent.com/31332352/119158264-0aefaa80-ba24-11eb-9fc6-1f5d59bd8c40.png" />
 <img align="left" alt="GCP" width="50px" src="https://user-images.githubusercontent.com/31332352/119158247-07f4ba00-ba24-11eb-842f-38c33c0bd370.png" />
