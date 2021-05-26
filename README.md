@@ -3,8 +3,6 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Prerak Trivedi 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Prerak Trivedi👋
-### Profile Views Counter <img src="https://komarev.com/ghpvc/?username=preraktrivedi7"/>
-### HITS![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/preraktrivedi7/Python)
 
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🌱 I’m currently learning everything 🤣
